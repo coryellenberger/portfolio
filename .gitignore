@@ -35,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Portfolio Specific
+src/app/**/*.js
+src/app/**/*.map
+src/main.js
+src/main.js.map
